@@ -61,11 +61,7 @@ I combine theory with practice by writing small programs and experimenting with 
 
 ## 💼 Career goal
 
-My goal is to get a **junior developer position**, where I can:
-
-- grow my technical skills in C#, Java, and .NET
-- contribute to real projects
-- bring my HR experience as an advantage in teamwork and communication
+My goal is to get a **junior developer position**, where I can: - grow my technical skills in C#, Java, and .NET - contribute to real projects - bring my HR experience as an advantage in teamwork and communication
 
 ---
 

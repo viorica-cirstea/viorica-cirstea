@@ -82,4 +82,5 @@ Each project will try to focus on:
 
 ## 📫 Contact
 
-- GitHub: [v66858823-collab](https://github.com/v66858823-collab)
+- 📫 Contact  
+GitHub: https://github.com/viorica-cirstea

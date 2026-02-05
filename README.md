@@ -7,25 +7,31 @@ Hi My name is Viorica Cirstea
 Junior Software Engineer
 ------------------------
 
-Junior developer learning both C# and Java. I build small projects to understand object‑oriented programming, data types, constructors, methods, and clean coding practices. I enjoy learning step by step, experimenting with console applications, and improving my problem‑solving skills through hands‑on practice. I also bring experience and a strong Human Resources background that enhances teamwork, communication, and adaptability. Motivated to grow into a reliable and versatile developer.
+Junior developer learning both C# and Java. I build small projects to understand object‑oriented programming, data types, constructors, methods, and clean coding practices. I enjoy learning step by step, experimenting with console applications, and improving my problem‑solving skills through hands‑on practice.
+
+I also bring experience and a strong Human Resources background that enhances teamwork, communication, and adaptability. Motivated to grow into a reliable and versatile developer.
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [v66858823@gmail.com](mailto:v66858823@gmail.com)
-* 🧠  I'm currently learning C# and Java, SQL
-* - Microsoft Learn – C# fundamentals  
-- Oracle Java documentation (basics & OOP)
-- Wikipedia articles about:
-  - data types
-  - console applications
-  - recursion
-  - programming style
-  - static program analysis
+* 🧠  I'm currently learning C#, Java, SQL
 
+Microsoft Learn – C# fundamentals
+Oracle Java documentation (basics & OOP)
+Wikipedia articles on:
+data types
+console applications
+recursion
+programming style
+static program analysis
 I combine theory with practice by writing small programs and experimenting with code in both C# and Java.
 
-* 👥  I'm looking to collaborate on Always open to new challenges and opportunities to gain real‑world experience, collaborate with motivated people, build meaningful and practical projects, strengthen my skills, and grow continuously through teamwork and clean coding practices.
-* 💬  Ask me about Curious, motivated, and always improving.
-
+👥 Open to collaborate on
+Open to new challenges and opportunities to gain real‑world experience, collaborate with motivated people, build meaningful and practical projects, strengthen my skills, and grow continuously through teamwork and clean coding practices.
+* 💬  Ask me about
+* Curious, motivated, and always improving.
+  
+✨ Anything else
+A learner at heart who enjoys building real, functional projects and growing through consistent practice. I value teamwork, clear communication, and continuous improvement in everything I do.
 
 ### Socials
 
